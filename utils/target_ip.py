@@ -29,4 +29,3 @@ def target_ip(target):
     except Exception:
         return None
     
-    
